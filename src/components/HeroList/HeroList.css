@@ -1,0 +1,9 @@
+#hero-list {
+    display: flex;
+    justify-content: center;
+    box-shadow: 2px 2px 4px #000000;
+}
+
+#hero-list .hero-container {
+    margin: 20px 0 50px 0;
+}
