@@ -1,0 +1,12 @@
+#header-container {
+    width: 100%;
+    background-color: #D8232A;
+    position: fixed;
+    padding: 10px 0;
+    z-index: 9999;
+    box-shadow: 2px 2px 4px #000000;
+}
+
+#header-container .container #logo-container img {
+    max-width: 200px;
+}   
